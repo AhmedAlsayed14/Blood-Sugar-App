@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "390220928846",
+    "firebase_url": "https://bloodsugartwo.firebaseio.com",
+    "project_id": "bloodsugartwo",
+    "storage_bucket": "bloodsugartwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390220928846:android:d4f1be04e4acfae5",
+        "android_client_info": {
+          "package_name": "com.y2m.bloodsugartwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390220928846-vft19t6adui8avlasr7scm9rrknsnqng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1qXgMC_V_eEwnH9IVJsDgiR0r73_VYWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

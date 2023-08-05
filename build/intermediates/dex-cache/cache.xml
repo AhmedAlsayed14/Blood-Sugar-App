@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.10.aar\dd44ba59cf0c14c3975abeb5e002fcda\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6792fb346d4f11b5b9e6c1a5df3a99c140a9e70">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\9ff86606db6a6338b781c326b30ce220\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\c8ddcbd224a54a5065fb67aecae5e87d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\96000ffc0a6a8b1821b8499befe43f3a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4058cee94e919baa91958bd3bb24f5ca\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0cd6b20bdc780d1e4e53c140c83b5eab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4e7b69f5f05c3c06f7f068280fd34a35\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\809a13456d8292a49569cbeb1e52a519\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-share-4.27.0.aar\b47835150867e2a631230c96eeb6e908\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\48c2e9718a42855b0f23abaf1ff00759\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcfc026764e9d97fa03af9ea9577dbc2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-common-4.27.0.aar\a5b826b9a774a52a73ca8ae5732d8ecf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8c306bfc3748e2b9ad2b56b50fff61a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d41ec2a5df1d8e3c398cd67775af0903\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-login-4.27.0.aar\e3c652539b56003d7158704a08cd580c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\fbe53ae3bd012e3496f23297c61e14ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.27.0.aar\a30bcf0e550c703ddbbc22c7445a3631\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\f6a68be5bc8e7cb7d5077bb0b8b3ec7e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b8544d0c4d3a508ffc7da674ac79d5dc5d79395">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-core-4.27.0.aar\291869424fe65c4b2d218db3916aaf28\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\e141e9ec7632a8f9613ac1570f44a56a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c3cf1f25222f4dfbced190df24c73aea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\f823126e72357e96c4002d7d3f1c6d07\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\da920c9a580bf6bf081564fc171106e9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\bed9fdcce91507c8113d4d934f0e4f06\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.27.0.aar\8ce6260e284074cd612a8df70f1e3a08\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\36693649ac8ca68d1d6dac861f188521\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae81c809c64b2f421d8c079a28896e33\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\1d94215575829d6ea931e1143cb46dcc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.27.0.aar\78975f6cdc36b448b2b44ed21755b07f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\28fe081c3b9c0dec935401a608b2923b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmoud Heshmat\.gradle\caches\transforms-1\files-1.1\facebook-places-4.27.0.aar\4917255ebebb276976cc96eeb08a5d5a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="D:\Y2M\Y2M Work\AndroidProject\bloodsugarTwo\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+
+</items>

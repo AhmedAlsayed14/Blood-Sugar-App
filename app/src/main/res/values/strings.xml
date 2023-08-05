@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Blood Sugar</string>
+    <string name="notification">Remind to record last value of Blood Sugar To store and track it</string>
+    <string name="app_title">Blood Sugar Records</string>
+    <string name="type1">Fasting 8- 12 Hours</string>
+    <string name="type2">2 hours After Eating</string>
+    <string name="type3">Random</string>
+    <string name="rate_app_title">Rate Application</string>
+    <string name="rate_app_message">Rate The Application On Google Play Store</string>
+    <string name="dialog_app_rate">Rate</string>
+    <string name="dialog_ask_later">Later</string>
+    <string name="dialog_ask_cancel">cancel</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_allnotifications">Notifications</string>
+    <string name="menuInventFreind">Invent Fiends</string>
+    <string name="menuNotification">Notification</string>
+    <string name="menuRateApplication">Rate Application</string>
+    <string name="menuOuerApplication">Other Applications</string>
+    <string name="menuSetting">Setting</string>
+    <string name="navigation_drawer_open">Open Menue</string>
+    <string name="navigation_drawer_close">Close Menue</string>
+    <string name="exiteInfo">Exit Without Saving </string>
+    <string name="editeInfo">Exit Without Edit</string>
+    <string name="edit">Edit Value</string>
+    <string name="delete">Delete Value</string>
+
+    <string name="languages">Select languages</string>
+    <string name="value">Enter Value</string>
+    <string name="type">Select Type</string>
+    <string name="date">Select Date</string>
+    <string name="time">Select Time</string>
+    <string name="facebook_app_id">307808553038535</string>
+    <string name="fb_login_protocol_scheme">fb307808553038535</string>
+    <string name="save">Save Value</string>
+    <string name="miss_input">Please make sure you enter all the input</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="averages">Averages</string>
+    <string name="calculate">Calculate</string>
+    <string name="averages_form">Calculate Average From</string>
+    <string name="averages_to">Calculate Average To</string>
+    <string name="averages_date_to">Select Date To</string>
+    <string name="averages_date_From">Select Date From</string>
+    <string name="averages_date_to_miss">Please Enter Date To</string>
+    <string name="averages_date_From_miss">Please Enter Date From</string>
+    <string name="averages_invalid">Please Make Sure You Enter To Date Large Than From Date</string>
+</resources>

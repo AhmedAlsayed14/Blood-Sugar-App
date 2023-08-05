@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">قياسات السكر</string>
+    <string name="notification">نذكرك بتسجيل القيساسات الحديثه لتخزينها و تتبع قيمها</string>
+    <string name="app_title">تسجيلات قياسات السكر</string>
+    <string name="type1">صائم 8- 12 ساعة</string>
+    <string name="type2">بعد 2 ساعة من الافطار</string>
+    <string name="type3">عشوائي</string>
+
+    <string name="rate_app_title">تقييم التطبيق</string>
+    <string name="rate_app_message">برجاء تقييم التطبيق على جوجل بلاي</string>
+    <string name="dialog_app_rate">تقييم</string>
+    <string name="dialog_ask_later">لاحقا</string>
+    <string name="dialog_ask_cancel">إلغاء</string>
+    <string name="title_activity_notification">إشعار</string>
+    <string name="title_activity_allnotifications">الإشعارات</string>
+    <string name="navigation_drawer_open">فتح القائمه</string>
+    <string name="navigation_drawer_close">غلق الفائمه</string>
+    <string name="menuInventFreind">دعوة الاصدقاء</string>
+    <string name="menuNotification">الإشعارات</string>
+    <string name="menuRateApplication">تقييم التطبيق</string>
+    <string name="menuOuerApplication">برامجنا الاخري</string>
+    <string name="menuSetting">الاعدادات</string>
+    <string name="exiteInfo">الخروج بدون حفظ</string>
+    <string name="value">ادخل القراءة</string>
+    <string name="type">نوع القياس</string>
+    <string name="date">إختيار التاريخ</string>
+    <string name="time">إختيار الوقت</string>
+    <string name="facebook_app_id">307808553038535</string>
+    <string name="fb_login_protocol_scheme">fb307808553038535</string>
+    <string name="save">حفظ القيمه</string>
+    <string name="miss_input">من فضلك تأكد من إضافة كافة البيانات</string>
+    <string name="languages">اإختيار اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزية</string>
+    <string name="averages">متوسط القياسات</string>
+    <string name="calculate">إحسب</string>
+    <string name="averages_form">حساب متوسط القياسات من وقت </string>
+    <string name="averages_to">حساب متوسط الحسابات إلى وقت</string>
+    <string name="averages_date_to">إختيار بداية الوقت من</string>
+    <string name="averages_date_From">إختيار بداية الوقت إلي</string>
+    <string name="averages_date_to_miss">برجاء إدخال بداية الوقت</string>
+    <string name="averages_date_From_miss">برجاء نهاية الوقت</string>
+    <string name="averages_invalid">برجاء التأكد من ان تاريخ النهايه اكبر من تاريخ بداية المده المحددة</string>
+    <string name="editeInfo">الخروج بدون تعديل</string>
+    <string name="edit">تعديل القيمه</string>
+    <string name="delete">مسح القيمة</string>
+</resources>

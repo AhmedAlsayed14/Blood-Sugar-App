@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5sp"
+        android:layout_margin="5sp"
+        android:background="@drawable/shape_itembackground">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/notification_content"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="@dimen/abc_text_size_headline_material"
+            android:maxLines="2"
+            android:minLines="2"
+            android:textStyle="bold"
+            android:textColor="#000"
+            />
+    </LinearLayout>
+</LinearLayout>
